@@ -1,1 +1,6 @@
-llm_rs
+tensorflow-macos
+tensorflow-metal
+scikit-learn
+pandas
+numpy
+scipy
