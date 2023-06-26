@@ -1,7 +1,6 @@
 # VerifyMacOsGPU
-Verify MacOS GPU (Enabled)
 
-Steps:
+Follow next steps:
 
 1. Create Enviroment
           python3 -m venv venv
